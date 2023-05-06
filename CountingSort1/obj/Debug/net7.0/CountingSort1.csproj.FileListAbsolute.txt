@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/bin/Debug/net7.0/CountingSort1
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/bin/Debug/net7.0/CountingSort1.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/bin/Debug/net7.0/CountingSort1.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/bin/Debug/net7.0/CountingSort1.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/bin/Debug/net7.0/CountingSort1.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/refint/CountingSort1.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/CountingSort1.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CountingSort1/obj/Debug/net7.0/ref/CountingSort1.dll

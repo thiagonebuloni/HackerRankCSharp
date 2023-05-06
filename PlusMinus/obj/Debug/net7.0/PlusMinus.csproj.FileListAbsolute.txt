@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/bin/Debug/net7.0/PlusMinus
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/bin/Debug/net7.0/PlusMinus.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/bin/Debug/net7.0/PlusMinus.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/bin/Debug/net7.0/PlusMinus.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/bin/Debug/net7.0/PlusMinus.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/refint/PlusMinus.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/PlusMinus.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/PlusMinus/obj/Debug/net7.0/ref/PlusMinus.dll

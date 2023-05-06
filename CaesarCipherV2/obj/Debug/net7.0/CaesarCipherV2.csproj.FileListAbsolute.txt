@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/bin/Debug/net7.0/CaesarCipherV2
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/bin/Debug/net7.0/CaesarCipherV2.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/bin/Debug/net7.0/CaesarCipherV2.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/bin/Debug/net7.0/CaesarCipherV2.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/bin/Debug/net7.0/CaesarCipherV2.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/refint/CaesarCipherV2.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/CaesarCipherV2.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/CaesarCipherV2/obj/Debug/net7.0/ref/CaesarCipherV2.dll

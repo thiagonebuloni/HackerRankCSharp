@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMWglTXHOkwlo3RFE7BuUwHzvexzQBwXv1g/CKSHi/HEEbuli5Lga2ZYd4B8TxXBIRn7t+2zS2BCC0wcW/04hQ==",
+  "success": true,
+  "projectFilePath": "/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/MinMaxSum.csproj",
+  "expectedPackageFiles": [
+    "/home/thiago/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/thiago/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

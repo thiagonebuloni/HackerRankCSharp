@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/bin/Debug/net7.0/GridChallenge
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/bin/Debug/net7.0/GridChallenge.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/bin/Debug/net7.0/GridChallenge.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/bin/Debug/net7.0/GridChallenge.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/bin/Debug/net7.0/GridChallenge.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/refint/GridChallenge.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/GridChallenge.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/GridChallenge/obj/Debug/net7.0/ref/GridChallenge.dll

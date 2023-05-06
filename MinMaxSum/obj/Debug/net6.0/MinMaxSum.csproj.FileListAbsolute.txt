@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/bin/Debug/net6.0/MinMaxSum
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/bin/Debug/net6.0/MinMaxSum.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/bin/Debug/net6.0/MinMaxSum.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/bin/Debug/net6.0/MinMaxSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/bin/Debug/net6.0/MinMaxSum.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/refint/MinMaxSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/MinMaxSum.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/MinMaxSum/obj/Debug/net6.0/ref/MinMaxSum.dll

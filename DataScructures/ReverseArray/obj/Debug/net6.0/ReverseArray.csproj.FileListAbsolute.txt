@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/bin/Debug/net6.0/ReverseArray
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/bin/Debug/net6.0/ReverseArray.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/bin/Debug/net6.0/ReverseArray.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/bin/Debug/net6.0/ReverseArray.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/bin/Debug/net6.0/ReverseArray.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/refint/ReverseArray.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ReverseArray.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DataScructures/ReverseArray/obj/Debug/net6.0/ref/ReverseArray.dll

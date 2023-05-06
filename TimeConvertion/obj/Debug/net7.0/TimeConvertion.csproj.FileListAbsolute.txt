@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/bin/Debug/net7.0/TimeConvertion
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/bin/Debug/net7.0/TimeConvertion.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/bin/Debug/net7.0/TimeConvertion.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/bin/Debug/net7.0/TimeConvertion.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/bin/Debug/net7.0/TimeConvertion.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/refint/TimeConvertion.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/TimeConvertion.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/TimeConvertion/obj/Debug/net7.0/ref/TimeConvertion.dll

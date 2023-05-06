@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/bin/Debug/net7.0/LonelyInteger
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/bin/Debug/net7.0/LonelyInteger.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/bin/Debug/net7.0/LonelyInteger.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/bin/Debug/net7.0/LonelyInteger.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/bin/Debug/net7.0/LonelyInteger.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/refint/LonelyInteger.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/LonelyInteger.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/LonelyInteger/obj/Debug/net7.0/ref/LonelyInteger.dll

@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/refint/DiagonalDifference.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/DiagonalDifference.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/DiagonalDifference/obj/Debug/net7.0/ref/DiagonalDifference.dll
