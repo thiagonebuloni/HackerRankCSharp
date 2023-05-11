@@ -1,0 +1,15 @@
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.csproj.AssemblyReference.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.AssemblyInfoInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.AssemblyInfo.cs
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.csproj.CoreCompileInputs.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/bin/Debug/net7.0/RecursiveDigitSum
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/bin/Debug/net7.0/RecursiveDigitSum.deps.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/bin/Debug/net7.0/RecursiveDigitSum.runtimeconfig.json
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/bin/Debug/net7.0/RecursiveDigitSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/bin/Debug/net7.0/RecursiveDigitSum.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/refint/RecursiveDigitSum.dll
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.pdb
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/RecursiveDigitSum.genruntimeconfig.cache
+/media/thiago/Novo volume1/Cursos/Programming/C#/hackerrank/RecursiveDigitSum/obj/Debug/net7.0/ref/RecursiveDigitSum.dll
